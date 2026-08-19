@@ -1,4 +1,4 @@
-Olá! Eu sou Julia Lourenco 👋
+# Olá! Eu sou Julia Lourenco 👋
 
 Estudante de Ciência da Computação pela PUC MINAS
 
