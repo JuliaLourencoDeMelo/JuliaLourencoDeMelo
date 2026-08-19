@@ -1,6 +1,7 @@
 Olá! Eu sou Julia Lourenco 👋
 
 Estudante de Ciência da Computação pela PUC MINAS
+
 Atualmente estou desenvolvendo conhecimentos:
 
 - Linguagem C
